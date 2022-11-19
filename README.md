@@ -1,2 +1,5 @@
 # algorithms
-all algorithms i know of 
+
+all algorithms i know of will be uploaded here. Please wait patiently
+
+
